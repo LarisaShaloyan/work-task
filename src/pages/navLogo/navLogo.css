@@ -1,0 +1,12 @@
+.logo-container {
+    background-color: #d3f0e8;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 15px 30px;
+
+}
+.logo {
+    width: 200px;
+    height: auto;
+}

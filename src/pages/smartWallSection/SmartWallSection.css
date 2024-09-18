@@ -1,0 +1,25 @@
+.SmartWall{
+    display: grid;
+    background: #d3f0e8;
+    grid-template-columns: 50% 50%;
+    gap:10px;
+}
+.SmartWall div{
+    height: 300px;
+    border-radius: 15px;
+}
+iframe{
+    width: 100%;
+    border-radius: 15px;
+}
+.green{
+    color: rgb(7, 168, 154)
+}
+.smart{
+    font-size: 40px;
+}
+.animation{
+    width:700px;
+    height:500px;
+    align-items: end;
+}
